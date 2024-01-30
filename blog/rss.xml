@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Datastrike Blog</title>
-        <link>https://github.com/blog</link>
+        <link>https://github.com/datastrike-docs/blog</link>
         <description>Datastrike Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,11 +10,11 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://github.com/blog/welcome</link>
-            <guid>https://github.com/blog/welcome</guid>
+            <link>https://github.com/datastrike-docs/blog/welcome</link>
+            <guid>https://github.com/datastrike-docs/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome guys]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-guys">Welcome guys<a href="https://github.com/blog/welcome#welcome-guys" class="hash-link" aria-label="Direct link to Welcome guys" title="Direct link to Welcome guys">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-guys">Welcome guys<a href="https://github.com/datastrike-docs/blog/welcome#welcome-guys" class="hash-link" aria-label="Direct link to Welcome guys" title="Direct link to Welcome guys">​</a></h3>
 <p>What's up</p>]]></content:encoded>
             <category>misc</category>
         </item>
