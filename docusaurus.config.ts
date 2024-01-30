@@ -31,9 +31,10 @@ const config: Config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
         },
         blog: {
@@ -70,35 +71,7 @@ const config: Config = {
         },
       ],
     },
-    footer: {
-      style: 'light',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Doc',
-              to: '/docs/intro',
-            },
-          ],
-        },
-      
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/datastrike',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discord.gg/MuNHmTzzdj',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Datastrike, Built with Docusaurus.`,
-    },
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
