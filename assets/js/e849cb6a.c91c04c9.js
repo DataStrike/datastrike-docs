@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatastrike_docs=self.webpackChunkdatastrike_docs||[]).push([[116],{4187:s=>{s.exports=JSON.parse('{"permalink":"/blog/tags/misc","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
