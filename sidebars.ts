@@ -24,6 +24,7 @@ const sidebars: SidebarsConfig = {
         'guides/first-steps',
         'guides/tracker',
         'guides/analysis',
+        'guides/scouting',
         'guides/teams'
       ],
     },
