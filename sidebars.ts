@@ -13,29 +13,15 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     'intro',
+    'contributing',
     {
       type: 'category',
       label: 'Guides',
       link: {
         "type": "generated-index",
-        "description": "You can find all the needed documentation to fully use Datastrike."
-      },
-      items: [ 
-        'guides/first-steps',
-        'guides/tracker',
-        'guides/analysis',
-        'guides/scouting',
-        'guides/teams'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Developers',
-      link: {
-        "type": "generated-index",
         "description": "Some of the advanced features to fully understand Datastrike."
       },
-      items: ['developers/contributing', 'developers/general' ],
+      items: ['guides/architecture' ],
     },
   ],
    

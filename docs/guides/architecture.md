@@ -2,7 +2,7 @@
 description: General content about Datastrike
 ---
 
-# General
+# Architecture
 Here's the general architecture of the project.
 
 ## 🗓️ Tracker
