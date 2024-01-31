@@ -4,7 +4,7 @@
         <title>Datastrike Blog</title>
         <link>https://github.com/datastrike-docs/blog</link>
         <description>Datastrike Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/datastrike-docs/blog/welcome</link>
             <guid>https://github.com/datastrike-docs/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome guys]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-guys">Welcome guys<a href="https://github.com/datastrike-docs/blog/welcome#welcome-guys" class="hash-link" aria-label="Direct link to Welcome guys" title="Direct link to Welcome guys">​</a></h3>
 <p>What's up</p>]]></content:encoded>

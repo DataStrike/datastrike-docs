@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatastrike_docs=self.webpackChunkdatastrike_docs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/datastrike-docs/blog/welcome","unlisted":false}]}')}}]);
