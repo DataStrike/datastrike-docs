@@ -15,5 +15,3 @@ We're currently writing the documentation. Feel free to tell us on our [Discord]
 Datastrike is an **tool** developed to help people. Our main goal is to provide an easy-to-use website that gather the needs of staff, players or whoever interested by competitive video games.
 
 We already have some nice features on board that you can find in the **[Guides](./category/guides)** section.
-
-Ready to go ? Check out our **[First steps](./guides/first-steps)** section to start using it ! Enjoy 🧑‍💻
