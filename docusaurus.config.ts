@@ -55,6 +55,15 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    algolia: {
+      // L'ID de l'application fourni par Algolia
+      appId: '6NF1IEOVP5',
+
+      // Clé d'API publique : il est possible de la committer en toute sécurité
+      apiKey: '0a763eedd8be8b1ee0251e5c3f913336',
+
+      indexName: 'datastrike',
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Datastrike',
