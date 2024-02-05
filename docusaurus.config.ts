@@ -51,18 +51,18 @@ const config: Config = {
   markdown: {
     mermaid: true,
   },
-  themes: ['@docusaurus/theme-mermaid', '@docusaurus/theme-search-algolia'],
+  themes: ['@docusaurus/theme-mermaid'],
 
   themeConfig: {
     // Replace with your project's social card
     algolia: {
       // L'ID de l'application fourni par Algolia
-      appId: 'YOUR_APP_ID',
+      appId: '6NF1IEOVP5',
 
       // Clé d'API publique : il est possible de la committer en toute sécurité
-      apiKey: 'YOUR_SEARCH_API_KEY',
+      apiKey: '0a763eedd8be8b1ee0251e5c3f913336',
 
-      indexName: 'YOUR_INDEX_NAME',
+      indexName: 'datastrike',
     },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
