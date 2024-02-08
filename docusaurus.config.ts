@@ -60,9 +60,9 @@ const config: Config = {
       appId: '6NF1IEOVP5',
 
       // Clé d'API publique : il est possible de la committer en toute sécurité
-      apiKey: '0a763eedd8be8b1ee0251e5c3f913336',
+      apiKey: '0cc815d395bc3d42cff905404872bb7d',
 
-      indexName: 'datastrike',
+      indexName: 'crawler_Datastrike',
     },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
