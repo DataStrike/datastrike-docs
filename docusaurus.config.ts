@@ -69,7 +69,7 @@ const config: Config = {
       title: 'Datastrike',
       logo: {
         alt: 'Datastrike Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
