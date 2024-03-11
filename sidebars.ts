@@ -21,7 +21,7 @@ const sidebars: SidebarsConfig = {
         "type": "generated-index",
         "description": "Some of the advanced features to fully understand Datastrike."
       },
-      items: ['guides/architecture' ],
+      items: ['guides/architecture', 'guides/tracker', 'guides/analysis', 'guides/scouting', 'guides/teams'],
     },
   ],
    
