@@ -6,9 +6,9 @@ description: How can I contribute to the project ?
 You can find all the repositories on the **[GitHub Organization page](https://github.com/datastrike)**.
 
 :::info
-This is still a very early stage of development. The README and the details on each repostiroy will be improved to enhance the DX.
+This is still a very early stage of development. The README and the details on each repository will be improved to enhance the DX.
 :::
-For now, the project is divided into 4 repositories : Frontend, Backend, Python-Processing, Docs.\
+For now, the project is divided into 4 repositories : Frontend, Backend, Python-Processing, Docs.
 
 ### Issues
 If you encounter a bug or you want a new feature on the project, please create an issue about it. We'll be happy to resolve it and improve Datastrike.
