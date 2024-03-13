@@ -15,4 +15,4 @@ All the teams you're in are in the "Teams" section. The users can see the other 
 To join a team, a user need to have the code of it.
 
 ### Admin
-If a user create a team, he's automatically considered as `ADMIN`. An `ADMIN` can manage its team. Therefore, he can promote other players to `ADMIN` or `KICK` them from the team.
+If a user create a team, he's automatically considered as `ADMIN`. An `ADMIN` can manage its team. Therefore, it can promote other players to `ADMIN` or `KICK` them from the team. It can also regenerate the code to invite players.
